@@ -2,7 +2,7 @@
 import requests
 import os
 from dotenv import load_dotenv
-from api_handler import summarize_reviews_with_gpt
+from gpt_handler import summarize_reviews_with_gpt
 
 # Load environment variables from .env file
 load_dotenv()
