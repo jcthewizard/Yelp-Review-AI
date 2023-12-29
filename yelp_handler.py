@@ -1,0 +1,1 @@
+# Manages the interactions with the Yelp API.

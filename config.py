@@ -1,0 +1,1 @@
+# Stores configurations like API keys (ensure this is not pushed to public repos for security reasons)
