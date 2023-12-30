@@ -45,7 +45,7 @@ def concatenate_reviews(review_texts):
     return concatenated_reviews
 
 
-restaurant_id = "north-india-restaurant-san-francisco"
+restaurant_id = "applebees-grill-bar-new-york-3"
 # print(extract_review_texts(get_restaurant_reviews(restaurant_id, api_key)))
 # Extract review texts
 review_texts = extract_review_texts(get_restaurant_reviews(restaurant_id, api_key))

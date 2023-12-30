@@ -5,7 +5,6 @@ import os
 
 load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
-print(os.getenv('OPENAI_API_KEY'))
 message_history = []
 
 def summarize_reviews_with_gpt(concatenated_reviews):
